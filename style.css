@@ -204,3 +204,9 @@ color: #2b569f !important;
   border: 1px solid #007fa0 !important;
   color: #00c0f4 !important;
 }
+
+@media only screen and (max-width : 990px) {
+  .slidercontent, .Foundation{
+    display: none !important;
+  }
+}
